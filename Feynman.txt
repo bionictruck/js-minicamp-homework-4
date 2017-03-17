@@ -1,0 +1,6 @@
+Callback Functions
+Closure
+arguments array
+recursion
+prototype
+constructors
