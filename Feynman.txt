@@ -1,6 +1,11 @@
-Callback Functions
-Closure
-arguments array
-recursion
-prototype
-constructors
+Callback Functions - A function that is passed into another function as an arguement. Can be called for each item in an array and run. Preferred over the for loop.
+
+Closure - A function returned in a function remembers where the call came from and can access other function and variables availble to the parent function.
+
+arguments array - Used to iterate or look at unknown number of given arguments.
+
+recursion - Another way to iterate. A function that can call itself within itself.
+
+prototype - Passes in one function that can be used in multiple individual functions rather than each individual function having and running it's own function.
+
+constructors - A template function that is passed in to create and return an object.
